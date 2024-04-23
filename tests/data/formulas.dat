@@ -1,0 +1,24 @@
+Heart Shape
+
+
+Heart Form
+-x^(2/3)+sqrt(1-x^2)
+x^(2/3)+sqrt(1-x^2)
+-x^(2/3)-sqrt(1-x^2)
++x^(2/3)-sqrt(1-x^2)
+
+
+Batman
+2*sqrt(-abs(abs(X)-1)*abs(3-abs(X))/((abs(X)-1)*(3-abs(X))))*(1+abs(abs(X)-3)/(abs(X)-3))*sqrt(1-(X/7)*(X/7))+(5+0.97*(abs(X-0.5)+abs(X+0.5))-3*(abs(X-0.75)+abs(X+0.75)))*(1+abs(1-abs(X))/(1-abs(X)))
+
+-3*sqrt(1-(X/7)*(X/7))*sqrt(abs(abs(X)-4)/(abs(X)-4))
+
+abs(X/2)-0.0913722*(X*X)-3+sqrt(1-(abs(abs(X)-2)-1)*(abs(abs(X)-2)-1))
+
+(2.71052+(1.5-0.5*abs(X))-1.35526*sqrt(4-(abs(X)-1)*(abs(X)-1)))*sqrt(abs(abs(X)-1)/(abs(X)-1))+0.9
+
+
+
+Extra
+-((2.71052+(1.5-0.5*abs(5*X))-1.35526*sqrt(4-(abs(X)-1)*(abs(X)-1)))*sqrt(abs(abs(X)-1)/(abs(X)-1))+0.9)
+((2.71052+(1.5-0.5*abs(5*X))-1.35526*sqrt(4-(abs(X)-1)*(abs(X)-1)))*sqrt(abs(abs(X)-1)/(abs(X)-1))+0.9)
