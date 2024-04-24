@@ -1,7 +1,11 @@
 # Scientific-Deposit-Credit-Calculator
 
 ## Overview
-Implementation of the extended version of the standard calculator in C++. 
+Implementation of the extended version of the standard calculator in C++.
+
+<div align="center">
+<img src="./misc/16.png" alt="Scientific" width="80%">
+</div>
 
 ### Scientific mode
 This mode enables you to:
