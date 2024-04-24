@@ -36,17 +36,17 @@ Run `make run` to launch the GUI-based calculator.
 <h2 align=center> Scientific Calculator </h2>
 <div align="center">
   <h3 align=center> Calculation </h3>
-  <img src="./misc/07.png" alt="Scientific" width="50%">
+  <img src="./misc/07.png" alt="Scientific" width="70%">
 
   <h3 align=center> Graph plotting </h3>
-  <img src="./misc/05.png" alt="Scientific" width="50%">
-  <img src="./misc/06.png" alt="Scientific" width="50%">
-  <img src="./misc/01.png" alt="Scientific" width="50%">
-  <img src="./misc/02.png" alt="Scientific" width="50%">
+  <img src="./misc/05.png" alt="Scientific" width="70%">
+  <img src="./misc/06.png" alt="Scientific" width="70%">
+  <img src="./misc/01.png" alt="Scientific" width="70%">
+  <img src="./misc/02.png" alt="Scientific" width="70%">
 
   <h3 align=center> Error handling </h3>
-  <img src="./misc/03.png" alt="Scientific" width="50%">
-  <img src="./misc/04.png" alt="Scientific" width="50%">
+  <img src="./misc/03.png" alt="Scientific" width="70%">
+  <img src="./misc/04.png" alt="Scientific" width="70%">
 
 
 </div>
@@ -54,22 +54,22 @@ Run `make run` to launch the GUI-based calculator.
 <h2 align=center> Credit Calculator </h2>
 <div align="center">
   <h3 align=center> Calculation of monthly payment, overpayment, and total payment on annuity loan</h3>
-  <img src="./misc/08.png" alt="Credit" width="50%">
-  <img src="./misc/09.png" alt="Credit" width="50%">
+  <img src="./misc/08.png" alt="Credit" width="70%">
+  <img src="./misc/09.png" alt="Credit" width="70%">
   <h3 align=center> Calculation of monthly payment, overpayment, and total payment on differentiated loan </h3>
-  <img src="./misc/10.png" alt="Credit" width="50%">
-  <img src="./misc/11.png" alt="Credit" width="50%">
+  <img src="./misc/10.png" alt="Credit" width="70%">
+  <img src="./misc/11.png" alt="Credit" width="70%">
   <h3 align=center> Error handling </h3>
-  <img src="./misc/14.png" alt="Credit" width="50%">
+  <img src="./misc/14.png" alt="Credit" width="70%">
 </div>
 
 <h2 align=center> Deposit Calculator </h2>
 <div align="center">
   <h3 align=center> Calculation of accrued interest, tax amount, and deposit amount by the end of the term </h3>
-  <img src="./misc/12.png" alt="Deposit" width="50%">
-  <img src="./misc/13.png" alt="Deposit" width="50%">
+  <img src="./misc/12.png" alt="Deposit" width="70%">
+  <img src="./misc/13.png" alt="Deposit" width="70%">
   <h3 align=center> Error handling </h3>
-  <img src="./misc/15.png" alt="Deposit" width="50%">
+  <img src="./misc/15.png" alt="Deposit" width="70%">
 </div>
 
 
