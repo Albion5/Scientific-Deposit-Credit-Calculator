@@ -48,7 +48,7 @@ TEST_COV_EXE = $(REPORT_DIR)bin/test_cov.out
 
 -include $(SRC_OBJS:.o=.d) $(TEST_OBJS:.o=.d)
 
-all: clean tests
+all: install
 
 install: clean $(APP)
 
